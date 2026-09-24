@@ -1,4 +1,3 @@
-# securisation-almalinux10
 # Script de sécurisation AlmaLinux 10
 
 Ce projet contient un script Bash destiné à automatiser et faciliter la mise en place d'une base de durcissement de sécurité sur les systèmes AlmaLinux 10.x.
